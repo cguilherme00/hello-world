@@ -1,2 +1,3 @@
 # hello-world
-description
+description:
+Interessado em programação, psicologia, DIY, e tudo mais de divertido.
